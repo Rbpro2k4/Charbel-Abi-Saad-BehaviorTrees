@@ -82,27 +82,6 @@ Below is a diagram representing the designed BT for the Smart Vacuum Cleaner:
     This node continuously monitors the environment for obstacles.
     - Detect & Avoid Obstacles: Ensures that the vacuum reacts in real time to avoid collisions, thereby protecting both the machine and the environment.
 
-2.4 Summary of Design Rationale
-
-The proposed Behavior Tree is structured to prioritize safe and efficient cleaning operations. By separating the primary concerns (battery management, navigation, and obstacle detection), the design ensures that each component can function independently yet contribute to the overall task. This modularity not only simplifies debugging and future modifications but also enhances the robustness of the system by providing fallback behaviors (e.g., returning to the dock when battery levels are low).
-
-Implementation & Submission Guidelines
-
-GitHub Repository Setup:
-1. Repository Name:
-   Create a GitHub repository named Name-BehaviorTrees.
-2. README.md:
-   Include a README.md file that briefly describes:
-   - The purpose of the project.
-   - A summary of how Behavior Trees are used in the project.
-   - Instructions on how to run or simulate the provided implementation.
-3. Code Documentation:
-   Ensure that your code is well-commented. Each file should have a header explaining its functionality, and inline comments should detail unique approaches or non-obvious logic.
-4. Public Access:
-   Make sure the repository is public so that it can be accessed for evaluation.
-5. Optional Implementation:
-   If you choose to implement the BT in a simulation or real programming environment, include the source code along with clear instructions on setup and execution.
-
 Conclusion
 
 This report has explored the foundational principles of Behavior Trees, contrasting them with traditional finite state machines and highlighting their application in various domains. Additionally, a detailed BT design for a Smart Vacuum Cleaner has been presented, including a diagram and explanation of each node’s function. By adhering to the submission guidelines, including creating a public GitHub repository with comprehensive documentation, you will demonstrate both a theoretical understanding and a practical application of Behavior Trees.
