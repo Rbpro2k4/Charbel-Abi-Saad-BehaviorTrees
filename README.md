@@ -107,6 +107,4 @@ Conclusion
 
 This report has explored the foundational principles of Behavior Trees, contrasting them with traditional finite state machines and highlighting their application in various domains. Additionally, a detailed BT design for a Smart Vacuum Cleaner has been presented, including a diagram and explanation of each node’s function. By adhering to the submission guidelines, including creating a public GitHub repository with comprehensive documentation, you will demonstrate both a theoretical understanding and a practical application of Behavior Trees.
 
-Feel free to customize the report further, add additional diagrams, or expand on any sections as needed before your final submission.
-
 # Charbel-Abi-Saad-BehaviorTrees.
